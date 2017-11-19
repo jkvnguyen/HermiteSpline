@@ -1,4 +1,5 @@
 Hermite Spline implementation with:
+
 - A maximum of 40 control points.
 - Catmull-Rom initialization with second order accurate boundary conditions.
 - Interactive spline creation (clicking adds a point).
