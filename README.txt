@@ -8,8 +8,7 @@ Hermite Spline Class Properties:
 	> system <name> set point <index> <x y z>
 	> system <name> add point <x y z sx sy sz> # adds a point with the given tangent at the end of the spline.
 - Arc Length parameterization using a piecewise linear approximation and look up table. The following
-  function prints the arc length of a spline up to parametric value t. Parameter t in this case, goes from 0 to
-  1 for the entire spline, that is for t =1 you get the length of the entire spline.
+  function prints the arc length of a spline up to parametric value t. Parameter t in this case, goes from 0 to 1 for the entire spline,     that is for t =1 you get the length of the entire spline.
 	> system <name> getArcLength <t>
 - Input/output from/to a file.
 		> system <name> load <file name>
