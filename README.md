@@ -21,5 +21,5 @@ Implementation with:
 	  	…. <br>
 	  	{pn[x] pn[y] pn[z] pn[x] sn[y] sn[z]} <br>
       <br>
-  	where the prefix “p” refers to control points and the prefix “s” to tangents. When reading a file, ignore the name of the spline stored in it. The template code does not allow renaming of objects.
-[Video Demo](https://youtu.be/M9JSoGzx4tY)
+  	where the prefix “p” refers to control points and the prefix “s” to tangents. When reading a file, ignore the name of the spline stored in it. The template code does not allow renaming of objects. <br>
+<br> [Video Demo](https://youtu.be/M9JSoGzx4tY)
