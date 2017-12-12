@@ -1,1 +1,4 @@
 *.rb linguist-language=Cpp
+* linguist-vendored
+*.tcl linguist-vendored=false
+*.html linguist-vendored=false
